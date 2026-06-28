@@ -1,4 +1,4 @@
-# newrepository
+cd # newrepository
 apnacollege first
 <br>
-Author - Bhanu Prakash B
+Author - Bhanu Prakash B(author)
